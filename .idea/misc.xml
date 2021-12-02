@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Hydra/AndroidStudioProjects/wear/app/src/main/res/drawable/botinok.xml" value="1.8821428571428571" />
+        <entry key="..\:/Users/Hydra/AndroidStudioProjects/wear/app/src/main/res/drawable/bt_shape.xml" value="1.8821428571428571" />
+        <entry key="..\:/Users/Hydra/AndroidStudioProjects/wear/app/src/main/res/drawable/edit_shape.xml" value="1.8821428571428571" />
+        <entry key="..\:/Users/Hydra/AndroidStudioProjects/wear/app/src/main/res/layout/activity_main.xml" value="2.3321428571428573" />
+        <entry key="..\:/Users/Hydra/AndroidStudioProjects/wear/app/src/main/res/layout/activity_result.xml" value="0.5301204819277109" />
+        <entry key="..\:/Users/Hydra/AndroidStudioProjects/wear/app/src/main/res/layout/activity_signinactivity.xml" value="2.3321428571428573" />
         <entry key="..\:/Users/User/Documents/WearOS/app/src/main/res/drawable/botinok.xml" value="1.5178571428571428" />
         <entry key="..\:/Users/User/Documents/WearOS/app/src/main/res/drawable/bt_shape.xml" value="1.8642857142857143" />
         <entry key="..\:/Users/User/Documents/WearOS/app/src/main/res/drawable/edit_shape.xml" value="1.5178571428571428" />
